@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Template
 metadata:
-  name: create-spring-boot-app-template
+  name: spring-boot-cc-template
   title: Create Spring Boot App Template
   description: Create a new spring boot project
   tags:
